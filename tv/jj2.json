@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "name": "姐姐2-20210122上",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/354045/10948467.html",
+      "parse": true
+    },
+    {
+      "name": "姐姐2-20210122下",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/354045/10948565.html",
+      "parse": true
+    },
+    {
+      "name": "姐姐2-20210129",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/354045/11009783.html",
+      "parse": true
+    },
+    {
+      "name": "姐姐2-20210205",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/354045/11070811.html",
+      "parse": true
+    },
+    {
+      "name": "姐姐2-20210212",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/354045/11115812.html",
+      "parse": true
+    },
+    {
+      "name": "姐姐2-20210219",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/354045/11142572.html",
+      "parse": true
+    },
+    {
+      "name": "姐姐2-20210219plus",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/354045/11151619.html",
+      "parse": true
+    },
+     {
+      "name": "姐姐2-20210226",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/354045/11201829.html",
+      "parse": true
+    },
+    {
+      "name": "姐姐2-20210305",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/354045/11262724.html?fpa=76&fpos=1&lastp=ch_show",
+      "parse": true
+    },
+    {
+      "name": "姐姐2-20210305plus",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/354045/11262557.html",
+      "parse": true
+    },
+    {
+      "name": "姐姐2模板",
+      "url": "https://titan.mgtv.com.parwix.com:4433/player/analysis.php?v=",
+      "parse": true
+    },
+    {
+      "name": "婆妈2-20210217彩蛋",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/361496/11132639.html",
+      "parse": true
+    },
+    {
+      "name": "婆妈2-20210219先导片",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/361496/11151483.html",
+      "parse": true
+    },
+    {
+      "name": "婆妈2-20210225第一期",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/361496/11196883.html",
+      "parse": true
+    },
+     {
+      "name": "婆妈2-20210304第二期",
+      "url": "https://v.lree.cn/jx/jx.php?url=https://www.mgtv.com/b/361496/11255299.html?fpa=76&fpos=2&lastp=ch_show",
+      "parse": true
+    },
+    {
+      "name": "第十八集",
+      "url": "https://pay.520yk.cn/256/?url=https://v.youku.com/v_show/id_XNDk4MzA1NDY4MA==.html",
+      "parse": true
+    }
+  ]
+}
