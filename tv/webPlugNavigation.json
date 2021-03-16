@@ -651,7 +651,7 @@
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.paofans.com/sobuso123-------------.html?wd=",
+        "search_url": "https://www.paofans.com/show/-------------.html?wd={kw}",
         "nav_url": "https://www.paofans.com/show/navCate--------navPage---.html",
         "cate_url": "https://www.paofans.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "泡饭影视",
