@@ -3,7 +3,7 @@
      {
       "name": "姐姐2",
       "pic": "https://imgo.114shouji.com/data/attachment/forum/201901/28/204153f6w0t3wmbjiwrvhi.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/toto320/freed/tv/jj2.json",
+      "url": "https://github.com/toto320/freed/raw/master/tv/jj2.json",
       "type": "gitJson",
       "subTitle": "电影整理中",
       "click": true,
@@ -14,7 +14,7 @@
     {
       "name": "私人专享受",
       "pic": "https://imgo.114shouji.com/data/attachment/forum/201901/28/204153f6w0t3wmbjiwrvhi.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/toto320/freed/tv/move.json",
+      "url": "https://github.com/toto320/freed/raw/master/tv/move.json",
       "type": "gitJson",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -25,7 +25,7 @@
     {
       "name": "虎牙斗鱼(选IJK解码)",
       "pic": "https://imgo.114shouji.com/data/attachment/forum/201901/28/204153f6w0t3wmbjiwrvhi.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/toto320/freed/tv/电影轮播.txt",
+      "url": "https://github.com/toto320/freed/raw/master/tv/电影轮播.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -36,7 +36,7 @@
      {
       "name": "萌鸡小队3",
       "pic": "https://imgo.114shouji.com/data/attachment/forum/201901/28/204153f6w0t3wmbjiwrvhi.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/toto320/freed/tv/mjxd.json",
+      "url": "https://github.com/toto320/freed/raw/master/tv/mjxd.json",
       "type": "gitJson",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -47,7 +47,7 @@
     {
       "name": "youku(新增/IJK解码)",
       "pic": "https://tva1.sinaimg.cn/large/a15b4afely1fmvj6ly1yqj21hc0u00vv.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/toto320/freed/tv/youku.m3u",
+      "url": "https://github.com/toto320/freed/raw/master/tv/youku.m3u",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -58,7 +58,7 @@
      {
       "name": "NEWTV系列",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/toto320/freed/tv/newtv.txt",
+      "url": "https://github.com/toto320/freed/raw/master/tv/newtv.txt",
       "type": "txt",
       "subTitle": "newtv",
       "click": true,
@@ -69,7 +69,7 @@
     {
       "name": "iHOT系列",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/toto320/freed/tv/ihot.m3u",
+      "url": "https://github.com/toto320/freed/raw/master/tv/ihot.m3u",
       "type": "m3u",
       "subTitle": "iHot",
       "click": true,
