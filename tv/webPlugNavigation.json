@@ -2637,7 +2637,7 @@
       "click": true
     },
      {
-      "name": "VIP电影网",
+      "name": "VIPDY5",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "http://www.vipdy5.com/",
@@ -2673,6 +2673,38 @@
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.wydcn.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "★★VIP影院",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://bukaivip.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "日剧网",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://www.riju.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "韩迷TV",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://www.hmtv.me/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "★★MaGeDN",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "http://downtv.gdwar.cn/",
       "webOpen": true,
       "click": true
     },
