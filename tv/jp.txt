@@ -73,4 +73,5 @@ CHINASES奏音,https://bobolj.com/20201219/G7uDdOXR/index.m3u8
 KTKL-066奏音,https://bobolj.com/20200223/JMLqaixx/index.m3u8
 监禁跡美,https://bobolj.com/20210110/IDBY3aNc/index.m3u8
 OTIM-026跡美,https://bobolj.com/20200623/C81K6onx/index.m3u8
+IPX-388岬,https://v.77zyw.live/share/C5lzY1F9U0YpSaXk
 Lily1,https://play3166.com/20190427/WaxvQrya/5229kb/hls/index.m3u8
