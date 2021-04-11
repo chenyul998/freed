@@ -74,6 +74,23 @@ KTKL-066奏音,https://bobolj.com/20200223/JMLqaixx/index.m3u8
 监禁跡美,https://bobolj.com/20210110/IDBY3aNc/index.m3u8
 OTIM-026跡美,https://bobolj.com/20200623/C81K6onx/index.m3u8
 IPX-388岬,https://v.77zyw.live/share/C5lzY1F9U0YpSaXk
+mide-797小野六花,http://t4.cdn2020.com:12345/video/m3u8/2020/07/27/89cfae5b/index.m3u8
+mide-784小野六花,http://t6.cdn2020.com:12347/video/m3u8/2021/02/05/ddf896d6/index.m3u8
+mide-821小野六花,http://t4.cdn2020.com:12345/video/m3u8/2020/09/25/31eaeb70/index.m3u8
+mide-869小野六花,http://t6.cdn2020.com:12347/video/m3u8/2021/03/03/e83316f8/index.m3u8
+pred-266星奈あい,http://t5.cdn2020.com:12346/video/m3u8/2020/11/19/9e853c1e/index.m3u8
+BF-531星奈あい,http://t1.cdn2020.com:12345/video/m3u8/2019/07/24/847e3c3a/index.m3u8
+APNS-034星奈あい,http://t1.cdn2020.com:12345/video/m3u8/2019/07/24/44c926b1/index.m3u8
+bda-074星奈あい,http://z1.ckcdn2002.com:12342/video/m3u8/2019/08/07/d2fce3a0/index.m3u8
+MIAA-090星奈あい,http://c1.ckcdn2000.com:12345/video/m3u8/2019/11/28/5b7fc681/index.m3u8
+HND-499星奈あい,http://c1.ckcdn2000.com:12345/video/m3u8/2019/11/28/c72399bb/index.m3u8
+pred-274星奈あい,http://t5.cdn2020.com:12346/video/m3u8/2020/12/15/2d10bbba/index.m3u8
+bda-091星奈あい,http://t6.cdn2020.com:12347/video/m3u8/2020/12/29/b77abb7e/index.m3u8
+pred-282星奈あい,http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/a8117120/index.m3u8
+jufe-253向井藍,http://t7.cdn2020.com:12359/video/m3u8/2021/04/11/90dbc40c/index.m3u8
+ipz-906白川麻衣,http://t7.cdn2020.com:12359/video/m3u8/2021/04/10/0143b4e9/index.m3u8
+vrtm-457愛育,http://t7.cdn2020.com:12359/video/m3u8/2021/04/08/88622f1a/index.m3u8
+VRTM-381愛育,http://c1.ckcdn2000.com:12345/video/m3u8/2019/12/20/7d67c07b/index.m3u8
 Lily1,https://play3166.com/20190427/WaxvQrya/5229kb/hls/index.m3u8
 
 
