@@ -107,17 +107,22 @@ pgd-860花咲,http://t6.cdn2020.com:12347/video/m3u8/2021/01/17/3fd8064d/index.m
 miae-051美竹,http://t7.cdn2020.com:12359/video/m3u8/2021/03/25/02c15693/index.m3u8
 ssni-822安齋,http://z1.ckcdn2002.com:12342/video/m3u8/2020/07/16/998d24f2/index.m3u8
 ssni-643安齋,http://c1.ckcdn2000.com:12345/video/m3u8/2020/04/17/ea322a53/index.m3u8
-mide-499初川,http://t6.cdn2020.com:12347/video/m3u8/2020/12/30/d2df99d7/index.m3u8
+mide-794初川,http://z1.ckcdn2002.com:12342/video/m3u8/2020/07/10/a4cef5af/index.m3u8
+mide-817初川,http://t4.cdn2020.com:12345/video/m3u8/2020/09/12/e6131c35/index.m3u8
+mide-841初川,http://t5.cdn2020.com:12346/video/m3u8/2020/11/07/c2c0d640/index.m3u8
 bd-408上原結衣,http://t4.cdn2020.com:12345/video/m3u8/2020/08/30/77367d53/index.m3u8
 smbd-94上原結衣,http://t4.cdn2020.com:12345/video/m3u8/2020/08/09/c4174a45/index.m3u8
 CWPBD-79上原結衣,http://v1.ckcdn2001.com:12346/video/m3u8/2019/09/03/69bf35f0/index.m3u8
 DASD-554神咲詩織,http://c1.ckcdn2000.com:12345/video/m3u8/2019/08/01/58657898/index.m3u8
+RBD-922神咲詩織,http://c1.ckcdn2000.com:12345/video/m3u8/2019/08/04/1a4ccedb/index.m3u8
 rbd-880若菜奈央,http://c1.ckcdn2000.com:12345/video/m3u8/2019/07/27/48580ad3/index.m3u8
+ECB-108若菜奈央,http://t1.cdn2020.com:12345/video/m3u8/2019/11/30/de320d1a/index.m3u8
 ul-333 木下凛々子,http://t5.cdn2020.com:12346/video/m3u8/2020/10/18/9a90020d/index.m3u8
 jul-272木下凛々子,http://z4.ckcdn2002.com:12315/video/m3u8/2020/07/16/393eccd8/index.m3u8
 xvsr-444彩乃なな,http://t2.cdn2020.com:12345/video/m3u8/2019/07/21/638eca02/index.m3u8
 dasd-696白人講師,http://t4.cdn2020.com:12345/video/m3u8/2020/08/08/078cddbb/index.m3u8
 miaa-291永瀬ゆい渚,http://t4.cdn2020.com:12345/video/m3u8/2020/09/12/ef02066d/index.m3u8
+DASD-562永瀬ゆい,http://c1.ckcdn2000.com:12345/video/m3u8/2019/08/08/cd9d2651/index.m3u8
 miaa-354松本永瀬ゆい,http://t5.cdn2020.com:12346/video/m3u8/2020/12/05/91e2555f/index.m3u8
 cawd-164桜もこ,http://t6.cdn2020.com:12347/video/m3u8/2021/02/08/bb51f372/index.m3u8
 漂亮表妹,http://v1.ckcdn2001.com:12346/video/m3u8/2020/03/08/3a389036/index.m3u8
