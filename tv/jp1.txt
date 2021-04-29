@@ -128,3 +128,4 @@ cawd-164桜もこ,http://t6.cdn2020.com:12347/video/m3u8/2021/02/08/bb51f372/ind
 原千岁,https://fc.maa1804.com/f/ejfisniwuo/ejfisniwuo.m3u8
 蓝泽润,https://fc.maa1804.com/e/vxztqvlivw/vxztqvlivw.m3u8
 杏笑望,https://fc.maa1804.com/m/aubgzpsvpd/aubgzpsvpd.m3u8
+SSR-026秘書,https://ckcdnz1.cdn2020.com/video/m3u8/2019/12/19/5688c027/index.m3u8
