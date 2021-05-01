@@ -50,6 +50,8 @@
 星空传媒12,http://t6.cdn2020.com:12347/video/m3u8/2021/01/22/0d9c6b62/index.m3u8
 星空传媒13,http://t6.cdn2020.com:12347/video/m3u8/2020/12/30/0c865416/index.m3u8
 星空传媒14,http://t6.cdn2020.com:12347/video/m3u8/2021/01/07/fe170b22/index.m3u8 
+天美传媒,http://t7.cdn2020.com:12359/video/m3u8/2021/05/01/fc7d710e/index.m3u8
+两姐妹,https://ckcdnz1.cdn2020.com/video/m3u8/2020/06/29/ea3d2666/index.m3u8
 小陈头,http://t4.cdn2020.com:12345/video/m3u8/2020/10/01/d570dc06/index.m3u8
 A亚清纯0,https://play3166.com/20191218/5ZXqkenw/2065kb/hls/index.m3u8
 A亚清纯,https://play3166.com/20191218/gL7hRGcl/2065kb/hls/index.m3u8
