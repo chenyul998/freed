@@ -1,4 +1,4 @@
-FOX,https://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+CNN,https://1176700211.rsc.cdn77.org/gXyW34l1nHQRAB3JyMU5SQ==,1620307427/1176700211/tracks-v1a1/mono.m3u8
 Top,https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1691610896.m3u8
 ShowTV,http://sierra-002-showbusiness.unitedteleports.tv/SIERRA/showbusinesstv-demo.m3u8
 WFCTV(en),https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
