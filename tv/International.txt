@@ -4,11 +4,15 @@ ShowTV,http://sierra-002-showbusiness.unitedteleports.tv/SIERRA/showbusinesstv-d
 WFCTV(en),https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 WFCTV(ru),https://wfcrus.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
 FashionTV(original),https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
+FashionHD,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 FashionTV(internac),https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/.m3u8
 FashionTV(paris),https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/.m3u8
-FTV Teens,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-FashionTV(午夜),https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/.m3u8
-FTV Midnight,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+FTV巴黎1,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+FTV巴黎2,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FashionTV午夜1,https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/.m3u8
+FTV午夜2,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+FTV④午夜3,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+FTV④午夜4,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 Kaloopy,https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/0007d291-4d51-4941-8b29-fca09b2bab1d/0.m3u8
 A3bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 MiamiTV(mco),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
