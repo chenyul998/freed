@@ -3,16 +3,18 @@ Top,https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w16916
 ShowTV,http://sierra-002-showbusiness.unitedteleports.tv/SIERRA/showbusinesstv-demo.m3u8
 WFCTV(en),https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 WFCTV(ru),https://wfcrus.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
-FashionTV(original),https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FashionTV(internac),https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FashionTV(paris),https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-FashionTV(午夜),https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FashionTV(original),https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
+FashionTV(internac),https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/.m3u8
+FashionTV(paris),https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/.m3u8
+FTV Teens,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+FashionTV(午夜),https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/.m3u8
+FTV Midnight,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 Kaloopy,https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/0007d291-4d51-4941-8b29-fca09b2bab1d/0.m3u8
 A3bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-MiamiTV(mco),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1842112689_b1896000.m3u8
-MiamiTV(lat),https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w1179763271_b2592000.m3u8
-MiamiTV(jen),https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist_w1711450716.m3u8
-MiamiTV(us),https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w331043695_b2592000.m3u8
+MiamiTV(mco),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
+MiamiTV(lat),https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
+MiamiTV(jen),https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
+MiamiTV(us),https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/.m3u8
 
 MIDE-770小野六花,https://867323785.tapecontent.net/radosgw/4d77yJeQvxCKvbr/kyoHxslZcZjF7c8ZyrqEDR4G7YCTqelLppPrnSD4huU7BIFQxEzxJC-NospRt5oMVxGtaq4aApP0FNcTNpvpQohTshtYPKYC8O7cVsOOlIWeEvI5VWkOGEJfvSk7_YM47oaKPIyM2JLJISie8nGB8elIeQHiOg-PKqOkjuu0yk1zORUsqZud6zY6XDqGtJOJzK1iAYkkrteDjJlFifoXQMvlhxSMLXB8x_GKFn2LMj7gSOsaLRep7DevVCVa8AR26Hk2hLrDyln39FR-/mide-770.mp4?stream=1
 MIDE-784小野六花,https://858142521.tapecontent.net/radosgw/LMvVkedJ0AhvBK/t3ie3PAAau86Q3lGAUusV_8ja0MBs33WXIGry7NEUc0moZN584FyFSAGuUBPj41ApmEjLPoQMaRrAo2yfWy8BIKa8lgpM1yNIaGzGb0uqJPpnO_e_3rRELi_niiQ8FLx9H74-YwjsqBQrIFxDxxJ8qQuOctLk-fM2lGDSdeC04uuJvNbnpREqm6b6fD3y7QVPBWgkf9AN-fd6yPOyvqgl0wvU7ud1ubCfrqK8SdGFAx5cMrq2n9W3AuDl6XUfoUDKHJ_zOIWIDE-lGax/mide-784.mp4?stream=1
