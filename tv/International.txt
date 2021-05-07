@@ -9,5 +9,32 @@ MiamiTV(lat),https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
 MiamiTV(jen),https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 MiamiTV(us),https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/.m3u8
 
+ipx-580枫,http://t6.cdn2020.com:12347/video/m3u8/2020/12/28/c4232a44/index.m3u8
+ipx-506岬,https://t3.cdn2020.com/video/m3u8/2020/07/21/c146cfef/index.m3u8
+ipx-585岬,http://t6.cdn2020.com:12347/video/m3u8/2020/12/29/91abcc6e/index.m3u8
+atid-440岬,http://t4.cdn2020.com:12345/video/m3u8/2020/10/11/0ab621b0/index.m3u8
+pred-281香椎花乃,http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/1f05c78e/index.m3u8
+pred-263香椎花乃,http://t5.cdn2020.com:12346/video/m3u8/2020/11/19/6282cb1b/index.m3u8
+pred-258香椎花乃,http://t5.cdn2020.com:12346/video/m3u8/2020/10/18/4c771ea7/index.m3u8
+pred-244香椎花乃,https://ckcdnz5.cdn2020.com/video/m3u8/2020/07/17/33a10f1e/index.m3u8
+mide-797小野六花,http://t4.cdn2020.com:12345/video/m3u8/2020/07/27/89cfae5b/index.m3u8
+mide-784小野六花,http://t6.cdn2020.com:12347/video/m3u8/2021/02/05/ddf896d6/index.m3u8
+mide-821小野六花,http://t4.cdn2020.com:12345/video/m3u8/2020/09/25/31eaeb70/index.m3u8
+mide-869小野六花,http://t6.cdn2020.com:12347/video/m3u8/2021/03/03/e83316f8/index.m3u8
+ssni-946新名吉岡,http://t6.cdn2020.com:12347/video/m3u8/2021/01/03/a551428f/index.m3u8
+ssni-896吉岡,http://t5.cdn2020.com:12346/video/m3u8/2020/10/24/2e263371/index.m3u8
+ssni-873吉岡,http://t4.cdn2020.com:12345/video/m3u8/2020/09/28/14ff051f/index.m3u8
+ssni-971吉岡,http://t6.cdn2020.com:12347/video/m3u8/2021/03/07/d80ec2c6/index.m3u8
+ssni-834吉岡,http://t4.cdn2020.com:12345/video/m3u8/2020/09/05/b9c9ac0e/index.m3u8
+ssni-872新名,http://t4.cdn2020.com:12345/video/m3u8/2020/10/02/1b6076c4/index.m3u8
+ipx-603希島,http://t6.cdn2020.com:12347/video/m3u8/2021/02/27/5d007085/index.m3u8
+ipx-587希島,http://t6.cdn2020.com:12347/video/m3u8/2020/12/28/a72dac17/index.m3u8
+sdmm-064奏音,http://t1.cdn2020.com:12345/video/m3u8/2020/05/29/1f87a418/index.m3u8
+docp-212奏音,http://t6.cdn2020.com:12347/video/m3u8/2021/02/16/6616b78f/index.m3u8
+HND-770奏音,https://www.fhbf9.com/20200712/Jp5TOZEM/index.m3u8
+BAHP-018奏音,https://www.fhbf9.com/20200706/krWxToTB/index.m3u8
+CJOD-231奏音,https://www.fhbf9.com/20200706/H8sFGkma/index.m3u8
+MIAA-185奏音,https://www.fhbf9.com/20200712/lUH6vGrO/index.m3u8
+早美れむ3,https://www.fhbf9.com/20200712/FlW1NDq0/index.m3u8
 Lily rader,https://videomy.yongaomy.com/20200502/agygXYVj/1500kb/hls/index.m3u8
 
