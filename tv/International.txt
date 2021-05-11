@@ -39,7 +39,13 @@ MIAA-185奏音,https://www.fhbf9.com/20200712/lUH6vGrO/index.m3u8
 
 妹妹,https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8
 SNIS-488葵司,https://videocdnbaidu.rhsj520.com/rbny/20181005/ks/SNIS-488/index.m3u8
+jul-498卯月,http://t7.cdn2020.com:12359/video/m3u8/2021/05/09/e74ebe08/index.m3u8
+jul-501加藤,http://t7.cdn2020.com:12359/video/m3u8/2021/05/09/2824e5b4/index.m3u8
+hodv-21497弥生,http://t7.cdn2020.com:12359/video/m3u8/2021/05/09/5a02e3b0/index.m3u8
+jul-490七瀬,http://t7.cdn2020.com:12359/video/m3u8/2021/05/09/059b107f/index.m3u8
 
+mide-137小西悠,http://t5.cdn2020.com:12346/video/m3u8/2020/11/26/b407aae8/index.m3u8
+wanz-632小西悠,http://t6.cdn2020.com:12347/video/m3u8/2021/01/14/f9c9f82d/index.m3u8
 ABP-015小西悠,https://videocdnbaidu.rhsj520.com/rbny/20181005/xxy/ABP-015/index.m3u8
 ABP-053小西悠,https://videocdnbaidu.rhsj520.com/rbny/20181005/xxy/ABP-053/index.m3u8
 ABP-022小西悠,https://videocdnbaidu.rhsj520.com/rbny/20181005/xxy/ABP-022/index.m3u8
@@ -51,6 +57,7 @@ INU-005小西悠,https://videocdnbaidu.rhsj520.com/rbny/20181005/xxy/INU-005/ind
 MADM-046小西悠,https://videocdnbaidu.rhsj520.com/rbny/20181005/xxy/MADM-046/index.m3u8
 MIGD-623小西悠,https://videocdnbaidu.rhsj520.com/rbny/20181005/xxy/MIGD-623/index.m3u8
 MXBD-209小西悠,https://videocdnbaidu.rhsj520.com/rbny/20181005/xxy/MXBD-209/index.m3u8
+
 
 ATFB-237櫻井步,https://videocdnbaidu.rhsj520.com/rbny/20181005/yjb/ATFB-237/index.m3u8
 ATFB-244櫻井步,https://videocdnbaidu.rhsj520.com/rbny/20181005/yjb/ATFB-244/index.m3u8
@@ -99,6 +106,16 @@ TPPN-034大槻,https://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/TPPN-034/inde
 WANZ-276大槻,https://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/WANZ-276/index.m3u8
 XVSR-377大槻,https://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/XVSR-377/index.m3u8
 
+hnd-932中城葵,http://t6.cdn2020.com:12347/video/m3u8/2021/01/06/d3ef39b8/index.m3u8
+jul-396中城葵,http://t5.cdn2020.com:12346/video/m3u8/2020/12/13/a547d471/index.m3u8
+
+jul-491木下凛,http://t7.cdn2020.com:12359/video/m3u8/2021/05/09/02e0365c/index.m3u8
+jul-302木下凛,http://t4.cdn2020.com:12345/video/m3u8/2020/09/20/e1961c75/index.m3u8
+jul-333木下凛,http://t5.cdn2020.com:12346/video/m3u8/2020/10/18/9a90020d/index.m3u8
+jul-359木下凛,http://t5.cdn2020.com:12346/video/m3u8/2020/11/18/11371608/index.m3u8
+jul-391木下凛,http://t5.cdn2020.com:12346/video/m3u8/2020/12/13/b31f33bb/index.m3u8
+jul-425 木下凛,http://t6.cdn2020.com:12347/video/m3u8/2021/01/24/ec12a520/index.m3u8
+
 加勒比022217西川,https://fc.maa1804.com/f/xuyanbincr/xuyanbincr.m3u8
 加勒比123016西川,https://fc.maa1804.com/d/uuvombzvvi/uuvombzvvi.m3u8
 加勒比112516西川,https://fc.maa1804.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
@@ -137,5 +154,18 @@ heyzo1638姬川,https://fc.maa1804.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
 加勒比020318西川1,https://fc.maa1804.com/n/iqphtushdl/iqphtushdl.m3u8
 加勒比012817桃井,https://fc.maa1804.com/m/zcosvkazzm/zcosvkazzm.m3u8
 heyzo1636立花琉莉,https://fc.maa1804.com/b/zbgglnlttb/zbgglnlttb.m3u8
+
+Caribpr-100416百合川,http://t5.cdn2020.com:12346/video/m3u8/2020/10/29/b568cd2a/index.m3u8
+mkbd-s87加藤麻耶,http://t4.cdn2020.com:12345/video/m3u8/2020/09/23/0d0243a9/index.m3u8
+n1044北村沙織,http://t4.cdn2020.com:12345/video/m3u8/2020/09/17/4a48e486/index.m3u8
+carib-100519小野寺梨紗,http://t4.cdn2020.com:12345/video/m3u8/2020/08/16/f413396c/index.m3u8
+heyzo-1934小野寺梨紗,https://v1.ckcdn2001.com/video/m3u8/2020/05/24/5ec1542f/index.m3u8
+n1006有村碧,http://t4.cdn2020.com:12345/video/m3u8/2020/08/30/56a1af6c/index.m3u8
+1pondo-100516枫乃,https://ckcdnz4.cdn2020.com/video/m3u8/2020/06/29/03704370/index.m3u8
+carib-031519メイリン,https://v1.ckcdn2001.com/video/m3u8/2019/12/28/e72b6c73/index.m3u8
+HEYZO-1897仲村,http://t2.cdn2020.com:12345/video/m3u8/2019/08/09/a2cd2607/index.m3u8
+adn-220河南実里,https://v1.ckcdn2001.com/video/m3u8/2019/08/07/b0992982/index.m3u8
+carib-072719藤嶋直,https://ckcdnc1.cdn2020.com/video/m3u8/2019/07/29/b440c6bd/index.m3u8
+
 Lily rader,https://videomy.yongaomy.com/20200502/agygXYVj/1500kb/hls/index.m3u8
 
