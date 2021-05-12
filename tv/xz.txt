@@ -1,3 +1,14 @@
+Top,https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1691610896.m3u8
+ShowTV,http://sierra-002-showbusiness.unitedteleports.tv/SIERRA/showbusinesstv-demo.m3u8
+WFCTV(en),https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+WFCTV(ru),https://wfcrus.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
+Kaloopy,https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/0007d291-4d51-4941-8b29-fca09b2bab1d/0.m3u8
+A3bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+MiamiTV(mco),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
+MiamiTV(lat),https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
+MiamiTV(jen),https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
+MiamiTV(us),https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/.m3u8
+
 女仆诱惑小九月,https://kumilist.obs22.top/A7379051D788C4603063597CD3F4F645.m3u8
 萌琪琪,https://kumilist.obs22.top/12FF3851A470FDDCFF05966376DEA4F6.m3u8
 萌琪琪2,https://kumilist.obs22.top/48D2C4563EB7C187F1ECBF5369642AA6.m3u8
