@@ -776,6 +776,7 @@ Lily rader,https://videomy.yongaomy.com/20200502/agygXYVj/1500kb/hls/index.m3u8
 专业13,http://t6.cdn2020.com:12347/video/m3u8/2020/12/22/96d97242/index.m3u8
 专业14,http://t6.cdn2020.com:12347/video/m3u8/2020/12/20/b4fca032/index.m3u8
 专业15,http://t6.cdn2020.com:12347/video/m3u8/2020/12/19/38516b9b/index.m3u8
+专业16,http://t7.cdn2020.com:12359/video/m3u8/2021/05/31/12b05b41/index.m3u8
 大奈奈1,http://t7.cdn2020.com:12359/video/m3u8/2021/05/26/e2578271/index.m3u8
 大奈奈2,http://t7.cdn2020.com:12359/video/m3u8/2021/05/19/2d46879c/index.m3u8
 大奈奈3,http://t7.cdn2020.com:12359/video/m3u8/2021/05/24/27a58c91/index.m3u8
@@ -796,3 +797,4 @@ Lily rader,https://videomy.yongaomy.com/20200502/agygXYVj/1500kb/hls/index.m3u8
 果冻传媒戚小怜1,http://t7.cdn2020.com:12359/video/m3u8/2021/05/28/6a7343eb/index.m3u8
 果冻传媒戚小怜2,http://t7.cdn2020.com:12359/video/m3u8/2021/05/13/9d6b9387/index.m3u8
 果冻传媒戚小怜3,http://t7.cdn2020.com:12359/video/m3u8/2021/05/29/6c2a780f/index.m3u8
+果冻传媒戚小怜4,http://t7.cdn2020.com:12359/video/m3u8/2021/05/31/ae331f18/index.m3u8
