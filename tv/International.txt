@@ -485,6 +485,13 @@ ABP-454上原瑞穂,https://t1s.cdn2020.com/video/m3u8/2019/11/30/5a70fd30/index
 dic-074遠野,https://ckcdnz3.cdn2020.com/video/m3u8/2020/06/16/c3e97da5/index.m3u8
 snis-173小島瑠川,http://t6.cdn2020.com:12347/video/m3u8/2021/02/05/38921eab/index.m3u8
 
+ebod-763衣吹かのん,https://t4s.cdn2020.com/video/m3u8/2020/09/28/574eece5/index.m3u8
+ebod-776衣吹かのん,https://t5s.cdn2020.com/video/m3u8/2020/12/04/a65db1d3/index.m3u8
+
+bf-563飛鳥,https://t2s.cdn2020.com/video/m3u8/2019/07/21/9d0175b5/index.m3u8
+hnd-620飛鳥,http://t6.cdn2020.com:12347/video/m3u8/2021/01/28/d3318197/index.m3u8
+pppd-897飛鳥,http://t6.cdn2020.com:12347/video/m3u8/2021/03/05/a12742d9/index.m3u8
+
 Caribpr-100416百合川,http://t5.cdn2020.com:12346/video/m3u8/2020/10/29/b568cd2a/index.m3u8
 mkbd-s87加藤麻耶,http://t4.cdn2020.com:12345/video/m3u8/2020/09/23/0d0243a9/index.m3u8
 n1044北村沙織,http://t4.cdn2020.com:12345/video/m3u8/2020/09/17/4a48e486/index.m3u8
@@ -587,6 +594,13 @@ Lily rader,https://videomy.yongaomy.com/20200502/agygXYVj/1500kb/hls/index.m3u8
 大二兼职闺蜜,http://t7.cdn2020.com:12359/video/m3u8/2021/06/01/eeb6087c/index.m3u8
 小鱼寻花,http://t7.cdn2020.com:12359/video/m3u8/2021/06/03/64d62750/index.m3u8
 白领,https://v1.ckcdn2001.com/video/m3u8/2020/03/08/5d855084/index.m3u8
+星空传媒语夏,http://t7.cdn2020.com:12359/video/m3u8/2021/06/27/b3a93e3b/index.m3u8
+星空传媒小芳,http://t7.cdn2020.com:12359/video/m3u8/2021/06/27/13792154/index.m3u8
+星空传媒麦小兜,http://t7.cdn2020.com:12359/video/m3u8/2021/06/21/9f993b72/index.m3u8
+星空传媒何苗,http://t7.cdn2020.com:12359/video/m3u8/2021/06/13/c3094b5b/index.m3u8
+
+
+
 SKYHD-081前田陽菜,https://www1972.ff-04.com/token=HhKbaO3hreBCyM8WM0CvxQ/1622843145/183.53.0.0/96/7/64/34d2bf811d07e4253e466c0a911c1647-720p.mp4
 011018立花瑠莉神田,https://www687.ff-02.com/token=W70pvw5ZxzFXiBWS8Hw5XQ/1622847609/183.53.0.0/5/3/c5/4d76872f48dce87e67f09db5f4b52c53-720p.mp4
 KAWD-997早美,https://www808.ff-02.com/token=fBLivpgcZ4rZhH9tT-ze8g/1622848152/183.53.0.0/55/7/18/7df94f0bf4054995365098826578a187-1080p.mp4
