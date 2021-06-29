@@ -292,6 +292,7 @@ sero-279大槻,http://t6.cdn2020.com:12347/video/m3u8/2021/01/18/96cf4383/index.
 mxgs-926大槻,http://z4.ckcdn2002.com:12315/video/m3u8/2020/07/14/a6142c55/index.m3u8
 cesd-210大槻,http://t4.cdn2020.com:12345/video/m3u8/2020/09/03/2b51746b/index.m3u8
 gvg-636大槻,http://t4.cdn2020.com:12345/video/m3u8/2020/08/11/37d09a88/index.m3u8
+xvsr-566大槻,https://t5s.cdn2020.com/video/m3u8/2020/12/16/aaf06750/index.m3u8
 
 ipx-603希島,http://t6.cdn2020.com:12347/video/m3u8/2021/02/27/5d007085/index.m3u8
 ipx-587希島,http://t6.cdn2020.com:12347/video/m3u8/2020/12/28/a72dac17/index.m3u8
