@@ -962,6 +962,15 @@ cawd-167乙葉,https://t6s.cdn2020.com/video/m3u8/2021/02/08/6a5b2d0d/index.m3u8
 meyd-650乙葉,https://t6s.cdn2020.com/video/m3u8/2021/02/28/5f5cf485/index.m3u8
 clot-019乙葉,https://t10.cdn2020.com:12335/video/m3u8/2021/07/23/a8ad327a/index.m3u8
 
+fsdss-044月乃,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/01/d37883d2/index.m3u8
+fsdss-142月乃,https://t6s.cdn2020.com/video/m3u8/2021/01/12/3e97be5c/index.m3u8
+
+jul-412東條,https://t6s.cdn2020.com/video/m3u8/2021/01/09/0bb2df68/index.m3u8
+hnd-927東條,https://t6s.cdn2020.com/video/m3u8/2021/01/06/e06e18e6/index.m3u8
+cjod-272東條,https://t6s.cdn2020.com/video/m3u8/2021/01/06/b3c56495/index.m3u8
+adn-327東條,https://t10.cdn2020.com:12335/video/m3u8/2021/07/22/193f2d5e/index.m3u8
+shkd-921東條,https://t6s.cdn2020.com/video/m3u8/2021/01/26/b5490378/index.m3u8
+
 SQTE-150,https://www173.ff-01.com/token=0Q0Z6f43OCkB1dHfxxObvg/1627429495/183.53.0.0/34/0/ec/b75de035b7f57f1732fdcd6cf8fe5ec0-360p.mp4
 WANZ-310,hhttps://www2036.ff-05.com/token=_xFj8d99gCiCz4hWo77ihA/1627586283/183.53.0.0/91/d/24/ec3a9716a325204f5ae30754aa7cf24d-1080p.mp4
 WANZ-280,https://www2176.ff-05.com/token=5GdZaP3XDoeZLaR0hiNA1g/1627430952/183.53.0.0/103/9/2c/cf6e7db44e43b038a102a944a40882c9-720p.mp4
