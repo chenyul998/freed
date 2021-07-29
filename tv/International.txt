@@ -956,11 +956,14 @@ ssni-872新名,https://t4s.cdn2020.com/video/m3u8/2020/10/02/1b6076c4/index.m3u8
 ssni-946新名吉岡,https://t6s.cdn2020.com/video/m3u8/2021/01/03/a551428f/index.m3u8
 ssni-970新名,https://t6s.cdn2020.com/video/m3u8/2021/03/07/ee3ae27c/index.m3u8
 
-SQTE-150裕木まゆ,https://www173.ff-01.com/token=0Q0Z6f43OCkB1dHfxxObvg/1627429495/183.53.0.0/34/0/ec/b75de035b7f57f1732fdcd6cf8fe5ec0-360p.mp4
-QTE-150裕木まゆ,https://www173.ff-01.com/token=0Q0Z6f43OCkB1dHfxxObvg/1627429495/183.53.0.0/34/0/ec/b75de035b7f57f1732fdcd6cf8fe5ec0-360p.mp4
-WANZ-310,https://www1172.ff-03.com/token=uoUaW2FcPR8f5ABO01x9zA/1627430890/183.53.0.0/68/d/24/ec3a9716a325204f5ae30754aa7cf24d-720p.mp4
+SQTE-150,https://www173.ff-01.com/token=0Q0Z6f43OCkB1dHfxxObvg/1627429495/183.53.0.0/34/0/ec/b75de035b7f57f1732fdcd6cf8fe5ec0-360p.mp4
+WANZ-310,hhttps://www2036.ff-05.com/token=_xFj8d99gCiCz4hWo77ihA/1627586283/183.53.0.0/91/d/24/ec3a9716a325204f5ae30754aa7cf24d-1080p.mp4
 WANZ-280,https://www2176.ff-05.com/token=5GdZaP3XDoeZLaR0hiNA1g/1627430952/183.53.0.0/103/9/2c/cf6e7db44e43b038a102a944a40882c9-720p.mp4
+WANZ-292,https://www780.ff-02.com/token=SV6P0S2174GpZ7mQB8kTAg/1627586519/183.53.0.0/75/c/f6/696a92883d820161dcb9a6436707ef6c-720p.mp4
 WANZ-322,https://www992.ff-02.com/token=ha6PqTiZlwsanAWomEylEw/1627431028/183.53.0.0/128/6/0a/cabf7129086e75f06496c7209210e0a6-720p.mp4
-WANZ-336,https://www411.ff-01.com/token=1gxJBKwEfIGPzuzZDZMcnw/1627431070/183.53.0.0/121/0/b9/53616c793d6c9df216bea8166ebfbb90-720p.mp4
-GM-032,https://www347.ff-01.com/token=0e-L9Rk_UOCKbEXzWFfpNA/1627431131/183.53.0.0/4/2/5e/5f78cb2990775544304b0485233695e2-720p.mp4
-DVDES-757,https://www1170.ff-03.com/token=6CT5Syctc6DlYbMzETWldA/1627431278/183.53.0.0/37/9/a9/b0a03751b832d8541180b45782115a99-720p.mp4
+WANZ-336,https://www411.ff-01.com/token=BG_5hegVYX6Qx5EQyLAzWw/1627586808/183.53.0.0/121/0/b9/53616c793d6c9df216bea8166ebfbb90-720p.mp4
+MVSD-268,https://www977.ff-02.com/token=OiiDR-cigjz1Xztt1a66IA/1627586668/183.53.0.0/126/1/aa/2f979b1ccca997f2da3c59398c8d8aa1-720p.mp4
+GM-032,https://www1691.ff-04.com/token=9oC5GzrmPby8v__OP5ifuQ/1627586627/183.53.0.0/4/2/5e/5f78cb2990775544304b0485233695e2-720p.mp4
+DVDES-757,https://www741.ff-02.com/token=l6LRa_GeFYn_q4n00nkoQw/1627586373/183.53.0.0/37/9/a9/b0a03751b832d8541180b45782115a99-720p.mp4
+NHDTA-587,https://www2136.ff-05.com/token=d1j02gY_zjmo-kfHPjRR1w/1627586332/183.53.0.0/144/2/20/01e706ec0c0853fb55ac5431eafd0202-1080p.mp4
+WANZ-280,https://www2176.ff-05.com/token=3JLG3Eu2S1by0_y3kN6rUQ/1627586439/183.53.0.0/103/9/2c/cf6e7db44e43b038a102a944a40882c9-720p.mp4
