@@ -956,6 +956,12 @@ ssni-872新名,https://t4s.cdn2020.com/video/m3u8/2020/10/02/1b6076c4/index.m3u8
 ssni-946新名吉岡,https://t6s.cdn2020.com/video/m3u8/2021/01/03/a551428f/index.m3u8
 ssni-970新名,https://t6s.cdn2020.com/video/m3u8/2021/03/07/ee3ae27c/index.m3u8
 
+hnd-882乙葉,https://t5s.cdn2020.com/video/m3u8/2020/10/22/10d5d9df/index.m3u8
+shkd-925乙葉,https://t6s.cdn2020.com/video/m3u8/2021/01/26/ddbe5654/index.m3u8
+cawd-167乙葉,https://t6s.cdn2020.com/video/m3u8/2021/02/08/6a5b2d0d/index.m3u8
+meyd-650乙葉,https://t6s.cdn2020.com/video/m3u8/2021/02/28/5f5cf485/index.m3u8
+clot-019乙葉,https://t10.cdn2020.com:12335/video/m3u8/2021/07/23/a8ad327a/index.m3u8
+
 SQTE-150,https://www173.ff-01.com/token=0Q0Z6f43OCkB1dHfxxObvg/1627429495/183.53.0.0/34/0/ec/b75de035b7f57f1732fdcd6cf8fe5ec0-360p.mp4
 WANZ-310,hhttps://www2036.ff-05.com/token=_xFj8d99gCiCz4hWo77ihA/1627586283/183.53.0.0/91/d/24/ec3a9716a325204f5ae30754aa7cf24d-1080p.mp4
 WANZ-280,https://www2176.ff-05.com/token=5GdZaP3XDoeZLaR0hiNA1g/1627430952/183.53.0.0/103/9/2c/cf6e7db44e43b038a102a944a40882c9-720p.mp4
