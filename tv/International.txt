@@ -1013,6 +1013,21 @@ stars-308宮島,https://t10.cdn2020.com:12335/video/m3u8/2021/07/24/4dd27f1c/ind
 pred-279櫻井,https://t6s.cdn2020.com/video/m3u8/2021/01/26/b3e9a5f0/index.m3u8
 pred-292櫻井,https://t7.cdn2020.com:12358/video/m3u8/2021/05/14/61ba160d/index.m3u8
 
+ndra-077美咲,https://t4s.cdn2020.com/video/m3u8/2020/08/21/82706ceb/index.m3u8
+adn-275美咲,https://t5s.cdn2020.com/video/m3u8/2020/12/13/2ebae458/index.m3u8
+rct-976美咲,https://t6s.cdn2020.com/video/m3u8/2021/01/17/c04900ea/index.m3u8
+shkd-953美咲,https://t10.cdn2020.com:12335/video/m3u8/2021/07/24/bd1fe5c3/index.m3u8
+snis-377美咲,https://t10.cdn2020.com:12335/video/m3u8/2021/07/24/43e2cee0/index.m3u8
+
+cawd-139伊藤舞雪,https://t5s.cdn2020.com/video/m3u8/2020/12/01/ec20276c/index.m3u8
+cawd-081伊藤舞雪,https://ckcdnc1.cdn2020.com/video/m3u8/2020/06/09/350edcd1/index.m3u8
+cawd-091伊藤舞雪,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/04/8704a1da/index.m3u8
+cawd-105伊藤舞雪,https://t4s.cdn2020.com/video/m3u8/2020/09/11/6d916c65/index.m3u8
+cawd-114伊藤舞雪,https://t4s.cdn2020.com/video/m3u8/2020/09/30/d4fadbfc/index.m3u8
+cawd-126伊藤舞雪,https://t5s.cdn2020.com/video/m3u8/2020/11/03/7be63c6c/index.m3u8
+cawd-152伊藤舞雪,https://t6s.cdn2020.com/video/m3u8/2021/01/06/69cbe5ef/index.m3u8
+kawd-969伊藤舞雪,https://t7.cdn2020.com:12358/video/m3u8/2021/06/26/786bf9c7/index.m3u8
+cawd-243伊藤舞雪,https://t10.cdn2020.com:12335/video/m3u8/2021/07/29/d9ae3635/index.m3u8
 
 SQTE-150,https://www173.ff-01.com/token=0Q0Z6f43OCkB1dHfxxObvg/1627429495/183.53.0.0/34/0/ec/b75de035b7f57f1732fdcd6cf8fe5ec0-360p.mp4
 WANZ-310,hhttps://www2036.ff-05.com/token=_xFj8d99gCiCz4hWo77ihA/1627586283/183.53.0.0/91/d/24/ec3a9716a325204f5ae30754aa7cf24d-1080p.mp4
