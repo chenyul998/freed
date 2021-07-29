@@ -980,6 +980,14 @@ ipx-581桜空,https://t6s.cdn2020.com/video/m3u8/2020/12/28/ffe80c54/index.m3u8
 ipx-597桜空,https://t6s.cdn2020.com/video/m3u8/2021/02/27/ec063ff3/index.m3u8
 ipx-690桜空,https://t10.cdn2020.com:12335/video/m3u8/2021/07/28/b82ccc1c/index.m3u8
 
+IPX-589白峰,https://t6s.cdn2020.com/video/m3u8/2021/02/27/adfdb0ab/index.m3u8
+ipx-68白峰,https://t10.cdn2020.com:12335/video/m3u8/2021/07/25/ef0edd9c/index.m3u8
+
+ssis-108ひなたまりん,https://t10.cdn2020.com:12335/video/m3u8/2021/07/24/3e4398c6/index.m3u8
+ssni-909ひなたまりん,https://t6s.cdn2020.com/video/m3u8/2020/12/22/023323de/index.m3u8
+ssni-821ひなたまりん,https://t4s.cdn2020.com/video/m3u8/2020/08/14/f04b4566/index.m3u8
+ssni-809ひなたまりん,https://ckcdnz4.cdn2020.com/video/m3u8/2020/06/25/75346756/index.m3u8
+
 SQTE-150,https://www173.ff-01.com/token=0Q0Z6f43OCkB1dHfxxObvg/1627429495/183.53.0.0/34/0/ec/b75de035b7f57f1732fdcd6cf8fe5ec0-360p.mp4
 WANZ-310,hhttps://www2036.ff-05.com/token=_xFj8d99gCiCz4hWo77ihA/1627586283/183.53.0.0/91/d/24/ec3a9716a325204f5ae30754aa7cf24d-1080p.mp4
 WANZ-280,https://www2176.ff-05.com/token=5GdZaP3XDoeZLaR0hiNA1g/1627430952/183.53.0.0/103/9/2c/cf6e7db44e43b038a102a944a40882c9-720p.mp4
