@@ -996,6 +996,14 @@ MIAA-181渚,https://v1.ckcdn2001.com/video/m3u8/2019/12/28/0b42103a/index.m3u8
 miaa-121渚,https://v1.ckcdn2001.com/video/m3u8/2019/07/31/6be29d75/index.m3u8
 DASD-558渚,https://ckcdnc1.cdn2020.com/video/m3u8/2019/08/01/284f6699/index.m3u8
 
+SSNI-627琴井,https://v1.ckcdn2001.com/video/m3u8/2019/12/28/f908122a/index.m3u8
+shkd-904琴井,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/16/42186352/index.m3u8
+adn-261琴井,https://t4s.cdn2020.com/video/m3u8/2020/09/21/331d66d8/index.m3u8
+adn-264琴井,https://t5s.cdn2020.com/video/m3u8/2020/10/23/2e348e8f/index.m3u8
+adn-273琴井,https://t5s.cdn2020.com/video/m3u8/2020/11/18/b804a754/index.m3u8
+adn-278琴井,https://t5s.cdn2020.com/video/m3u8/2020/12/13/4088f13e/index.m3u8
+adn-287琴井,https://t6s.cdn2020.com/video/m3u8/2021/01/20/d861eedd/index.m3u8
+ssni-576琴井,https://t6s.cdn2020.com/video/m3u8/2021/02/25/82dff29e/index.m3u8
 
 SQTE-150,https://www173.ff-01.com/token=0Q0Z6f43OCkB1dHfxxObvg/1627429495/183.53.0.0/34/0/ec/b75de035b7f57f1732fdcd6cf8fe5ec0-360p.mp4
 WANZ-310,hhttps://www2036.ff-05.com/token=_xFj8d99gCiCz4hWo77ihA/1627586283/183.53.0.0/91/d/24/ec3a9716a325204f5ae30754aa7cf24d-1080p.mp4
