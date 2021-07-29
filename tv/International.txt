@@ -1012,6 +1012,7 @@ stars-308宮島,https://t10.cdn2020.com:12335/video/m3u8/2021/07/24/4dd27f1c/ind
 
 pred-279櫻井,https://t6s.cdn2020.com/video/m3u8/2021/01/26/b3e9a5f0/index.m3u8
 pred-292櫻井,https://t7.cdn2020.com:12358/video/m3u8/2021/05/14/61ba160d/index.m3u8
+cawd-258百永,https://t10.cdn2020.com:12335/video/m3u8/2021/07/29/5fc1e602/index.m3u8
 
 ndra-077美咲,https://t4s.cdn2020.com/video/m3u8/2020/08/21/82706ceb/index.m3u8
 adn-275美咲,https://t5s.cdn2020.com/video/m3u8/2020/12/13/2ebae458/index.m3u8
@@ -1028,6 +1029,16 @@ cawd-126伊藤舞雪,https://t5s.cdn2020.com/video/m3u8/2020/11/03/7be63c6c/inde
 cawd-152伊藤舞雪,https://t6s.cdn2020.com/video/m3u8/2021/01/06/69cbe5ef/index.m3u8
 kawd-969伊藤舞雪,https://t7.cdn2020.com:12358/video/m3u8/2021/06/26/786bf9c7/index.m3u8
 cawd-243伊藤舞雪,https://t10.cdn2020.com:12335/video/m3u8/2021/07/29/d9ae3635/index.m3u8
+
+cawd-164桜,https://t6s.cdn2020.com/video/m3u8/2021/02/08/bb51f372/index.m3u8
+KAWD-904桜,https://v1.ckcdn2001.com/video/m3u8/2019/08/02/f60679ec/index.m3u8
+cawd-080桜,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/04/09a85f6b/index.m3u8
+cawd-090桜,ttps://t4s.cdn2020.com/video/m3u8/2020/08/08/0cce29ae/index.m3u8
+hcawd-106桜,https://t4s.cdn2020.com/video/m3u8/2020/09/11/88567d77/index.m3u8
+cawd-115桜,https://t4s.cdn2020.com/video/m3u8/2020/09/30/90b04d82/index.m3u8
+cawd-127桜,https://t5s.cdn2020.com/video/m3u8/2020/11/03/168e8635/index.m3u8
+kawd-896桜,https://t7.cdn2020.com:12358/video/m3u8/2021/07/16/38718fcf/index.m3u8
+cawd-244桜,https://t10.cdn2020.com:12335/video/m3u8/2021/07/29/bcc21e48/index.m3u8
 
 SQTE-150,https://www173.ff-01.com/token=0Q0Z6f43OCkB1dHfxxObvg/1627429495/183.53.0.0/34/0/ec/b75de035b7f57f1732fdcd6cf8fe5ec0-360p.mp4
 WANZ-310,hhttps://www2036.ff-05.com/token=_xFj8d99gCiCz4hWo77ihA/1627586283/183.53.0.0/91/d/24/ec3a9716a325204f5ae30754aa7cf24d-1080p.mp4
