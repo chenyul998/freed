@@ -988,6 +988,15 @@ ssni-909ひなたまりん,https://t6s.cdn2020.com/video/m3u8/2020/12/22/023323d
 ssni-821ひなたまりん,https://t4s.cdn2020.com/video/m3u8/2020/08/14/f04b4566/index.m3u8
 ssni-809ひなたまりん,https://ckcdnz4.cdn2020.com/video/m3u8/2020/06/25/75346756/index.m3u8
 
+sps-022渚,https://t7.cdn2020.com:12358/video/m3u8/2021/07/17/022d203d/index.m3u8
+miaa-291渚,https://t4s.cdn2020.com/video/m3u8/2020/09/12/ef02066d/index.m3u8
+dasd-707渚,https://t4s.cdn2020.com/video/m3u8/2020/08/17/ea4396bd/index.m3u8
+ipx-016渚,https://t4s.cdn2020.com/video/m3u8/2020/08/07/c8199b92/index.m3u8
+MIAA-181渚,https://v1.ckcdn2001.com/video/m3u8/2019/12/28/0b42103a/index.m3u8
+miaa-121渚,https://v1.ckcdn2001.com/video/m3u8/2019/07/31/6be29d75/index.m3u8
+DASD-558渚,https://ckcdnc1.cdn2020.com/video/m3u8/2019/08/01/284f6699/index.m3u8
+
+
 SQTE-150,https://www173.ff-01.com/token=0Q0Z6f43OCkB1dHfxxObvg/1627429495/183.53.0.0/34/0/ec/b75de035b7f57f1732fdcd6cf8fe5ec0-360p.mp4
 WANZ-310,hhttps://www2036.ff-05.com/token=_xFj8d99gCiCz4hWo77ihA/1627586283/183.53.0.0/91/d/24/ec3a9716a325204f5ae30754aa7cf24d-1080p.mp4
 WANZ-280,https://www2176.ff-05.com/token=5GdZaP3XDoeZLaR0hiNA1g/1627430952/183.53.0.0/103/9/2c/cf6e7db44e43b038a102a944a40882c9-720p.mp4
