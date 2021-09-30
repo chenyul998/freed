@@ -1067,21 +1067,18 @@ pred-279櫻井,http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/b3e9a5f0/index.
 pred-016妻子,http://t6.cdn2020.com:12347/video/m3u8/2021/02/05/1698578f/index.m3u8
 pred-202竹内有紀,http://t6.cdn2020.com:12347/video/m3u8/2021/02/01/1915593c/index.m3u8
 pred-283辻井,http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/a8534be8/index.m3u8
-pred-282星奈,http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/a8117120/index.m3u8
 pred-281香椎花乃,http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/1f05c78e/index.m3u8
 pred-280希島,http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/ba88d257/index.m3u8
 pred-277山岸逢花,http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/c5852197/index.m3u8
 pred-183篠田,http://t6.cdn2020.com:12347/video/m3u8/2020/12/30/b2c19bb2/index.m3u8
 pred-276里美舞原聖,http://t5.cdn2020.com:12346/video/m3u8/2020/12/15/a92257bf/index.m3u8
 pred-275蓮実,http://t5.cdn2020.com:12346/video/m3u8/2020/12/15/acfa59db/index.m3u8
-pred-274深田星奈,http://t5.cdn2020.com:12346/video/m3u8/2020/12/15/2d10bbba/index.m3u8
 pred-271山岸逢花,http://t5.cdn2020.com:12346/video/m3u8/2020/12/15/85a2926d/index.m3u8
 pred-267滝川由季,http://t5.cdn2020.com:12346/video/m3u8/2020/11/24/aabad9fd/index.m3u8
 pred-262山岸逢花,http://t5.cdn2020.com:12346/video/m3u8/2020/11/19/9b5093d5/index.m3u8
 pred-263香椎花乃,http://t5.cdn2020.com:12346/video/m3u8/2020/11/19/6282cb1b/index.m3u8
 pred-264竹内有紀,http://t5.cdn2020.com:12346/video/m3u8/2020/11/19/9cab4a55/index.m3u8
 pred-265篠田,http://t5.cdn2020.com:12346/video/m3u8/2020/11/19/29b873d0/index.m3u8
-pred-266星奈,http://t5.cdn2020.com:12346/video/m3u8/2020/11/19/9e853c1e/index.m3u8
 pred-269辻井,http://t5.cdn2020.com:12346/video/m3u8/2020/11/19/405fbf0e/index.m3u8
 pred-256山岸逢花,http://t5.cdn2020.com:12346/video/m3u8/2020/11/18/d0ebad66/index.m3u8
 pred-152新井優香,http://t5.cdn2020.com:12346/video/m3u8/2020/11/15/824893a2/index.m3u8
@@ -1924,7 +1921,6 @@ BF-534松下紗栄子,https://t1s.cdn2020.com/video/m3u8/2019/11/30/b6a4000a/ind
 姫川,https://videomy.yongaomy.com:8091/20200102/IeVDOH6i/1500kb/hls/index.m3u8
 sdde-623姉妹,https://t1s.cdn2020.com/video/m3u8/2020/05/29/8c5c277e/index.m3u8
 ANB-70本庄優花,https://ckcdnc1.cdn2020.com/video/m3u8/2019/08/04/dc1d6198/index.m3u8
-ipx-729岬,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/3979fa25/index.m3u8
 ssis-172安斋,https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/caf5cba7/index.m3u8
 dvaj-533藤森里穂,https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/0708c67b/index.m3u8
 jufe-313藤森里穂,https://t10.cdn2020.com:12335/video/m3u8/2021/08/07/e06a4275/index.m3u8
@@ -2071,11 +2067,26 @@ MIDE-685蓝芽美月,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/23000/23931/index
 蓝芽美月,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/16000/16770/index.m3u8
 bnsps-396筱惠美,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/24000/24525/index.m3u8
 噴汗彩葉美織,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/10000/10414/index.m3u8
+pred-341香椎花乃,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/d783da33/index.m3u8
+BF-531星奈あい,https://t1s.cdn2020.com/video/m3u8/2019/07/24/847e3c3a/index.m3u8
+APNS-034星奈関根奈美,https://t1s.cdn2020.com/video/m3u8/2019/07/24/44c926b1/index.m3u8
+bda-074星奈あい,https://ckcdnz1.cdn2020.com/video/m3u8/2019/08/07/d2fce3a0/index.m3u8
+MIAA-090 美谷朱里星奈あい,https://ckcdnc1.cdn2020.com/video/m3u8/2019/11/28/5b7fc681/index.m3u8
+HND-499星奈あい,https://ckcdnc1.cdn2020.com/video/m3u8/2019/11/28/c72399bb/index.m3u8
+bda-091星奈あい,https://t6s.cdn2020.com/video/m3u8/2020/12/29/b77abb7e/index.m3u8
+pred-300星奈あい,https://t7.cdn2020.com/video/m3u8/2021/07/09/0f888b00/index.m3u8
+pred-337星奈あい,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/49ed95c2/index.m3u8
+pred-282星奈,http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/a8117120/index.m3u8
+pred-274深田星奈,http://t5.cdn2020.com:12346/video/m3u8/2020/12/15/2d10bbba/index.m3u8
+pred-266星奈,http://t5.cdn2020.com:12346/video/m3u8/2020/11/19/9e853c1e/index.m3u8
+pred-340広瀬,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/4b78c206/index.m3u8
+pred-334 山岸逢花,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/f0d78330/index.m3u8
+pred-342櫻井,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/2e6f3dc1/index.m3u8
+mide-970七沢,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/4f8053b0/index.m3u8
+ipx-697相沢,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/089e730f/index.m3u8
 IPX-729岬,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/3979fa25/index.m3u8
 IPX-488岬,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/16000/16589/index.m3u8
 IPX-646岬,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/23000/23778/index.m3u8
-RBD-612竹内紗里奈,https://www141.sbcdnvideo.com/hls/tysxeprj2c66j6cdaa6rrxqcoimsk6vjjepsoq57jmry5abqhu2bueeftshq/index-v1-a1.m3u8
-HND-026竹内紗里奈,https://www170.sbcdnvideo.com/hls/tysxfry5nc66j6cdaaqrdrcigtmcoonn5so7aank5esh3r6sd7tiocmnquqa/index-v1-a1.m3u8
 
 Caribpr-100416百合川,http://t5.cdn2020.com:12346/video/m3u8/2020/10/29/b568cd2a/index.m3u8
 mkbd-s87加藤麻耶,http://t4.cdn2020.com:12345/video/m3u8/2020/09/23/0d0243a9/index.m3u8
