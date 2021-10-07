@@ -2225,10 +2225,19 @@ TKWA-045RION,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/24000/24506/index.m3u8
 MIAA-429高梨有纱,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/24000/24336/index.m3u8
 WAAA-056白川柚子,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/24000/24341/index.m3u8
 FCP-011绝对主观,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/24000/24251/index.m3u8
+cawd-293伊東 白桃,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/a5e948a1/index.m3u8
+adn-347明里,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/cf0d63d2/index.m3u8
+cawd-285伊藤舞雪,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/d4745fc6/index.m3u8
+cawd-286桜,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/4b4e3d2c/index.m3u8
+cawd-282八神未来,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/eb7edf60/index.m3u8
+MEYD-674岬樱,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/25000/25456/index.m3u8
+MEYD-669岬樱,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/23000/23793/index.m3u8
+HND609岬梓,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/10000/10506/index.m3u8
 IPX-729岬,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/3979fa25/index.m3u8
 IPX-488岬,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/16000/16589/index.m3u8
 ipx-632岬,https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/b7f4dd73/index.m3u8
 IPX-646岬,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/23000/23778/index.m3u8
+IPX-664岬,https://cdn.hjhs.m3u8.xiaoxiaodl.com/m3u8/25000/25435/index.m3u8
 OFJE-221A,https://www158.ff-01.com/token=SblR0aE7Etz1ab1dV1oCHA/1633642015/183.53.0.0/89/d/03/c10418e4f7b0a0e2c1822ba320d8203d-720p.mp4
 OFJE-221B,https://www1681.ff-04.com/token=m77Tv6QtNOH8xreRtDtVwg/1633642016/183.53.0.0/84/6/9a/60d8b62d25785dca2f61f227a07199a6-720p.mp4
 OFJE-221C,https://www28.ff-01.com/token=ip0xJU4Vmdi2Djfj76vZZA/1633642015/183.53.0.0/88/e/9f/93ce8637f17d4c333b4ac1a5db01f9fe-720p.mp4
